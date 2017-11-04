@@ -5,10 +5,10 @@ permalink:           pretty
 # relative_permalinks: true
 
 # Setup
-title:               Club robotique de l'ENSTA Bretagne
+title:               Blog de Simon CHANU
 tagline:             ''
 description:         ''
-url:                 http://enstabretagneclubrobo.github.io
+url:                 http://blog.simon-chanu.eu
 baseurl:             ''
 gems:                [jekyll-paginate]
 paginate:            5
