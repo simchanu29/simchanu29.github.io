@@ -1,0 +1,23 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
+
+# Setup
+title:               Club robotique de l'ENSTA Bretagne
+tagline:             ''
+description:         ''
+url:                 http://enstabretagneclubrobo.github.io
+baseurl:             ''
+gems:                [jekyll-paginate]
+paginate:            5
+paginate_path:       "page:num"
+
+# About/contact
+author:
+  name:              Simon CHANU
+  url:               simon.chanu@ensta-bretagne.fr
+
+# Custom vars
+version:             1.0.0
